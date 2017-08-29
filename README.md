@@ -1,2 +1,2 @@
-# CQF
-This repository contains Python scripts for the CQF program
+# Finance
+This repository contains scripts that reflect my exploration in financial world
